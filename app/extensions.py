@@ -4,3 +4,4 @@ from flask_restx import Api
 
 db = SQLAlchemy()
 api = Api()
+
